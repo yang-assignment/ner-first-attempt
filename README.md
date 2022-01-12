@@ -4,6 +4,8 @@
 
 是某导给我NER的一个链接：https://huggingface.co/transformers/v4.10.1/custom_datasets.html#tok-ner
 
+（因为是旧版，和新版很多东西不一样了，已经下载下来‘custom_datasets.ipynb’，也可通过访问旧版本docs）
+
 这里不得不吐槽两句：
 
 事实上这个链接可以用，但是文不对题啊，NER却甩给我一个custom_datasets的东西（虽然里面擦到了相关）
