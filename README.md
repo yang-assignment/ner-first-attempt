@@ -1,6 +1,6 @@
 # ner-first-attempt
 
-严格来说这并不是我的一个assignment，但是太屎了不能放在我的主页
+严格来说这并不是我的一个assignment，但是太屎了不能放在我的主页（为啥这么乱，年少无知 + 首次尝试正式在另一个repo）
 
 是某导给我NER的一个链接：https://huggingface.co/transformers/v4.10.1/custom_datasets.html#tok-ner
 
